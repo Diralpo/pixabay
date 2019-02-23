@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # 爬取免费pixabay图片的小蜘蛛
 
 输入形如
