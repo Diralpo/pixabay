@@ -1,6 +1,5 @@
 ---
-typora-copy-images-to: img
-typora-root-url: img
+typora-root-url: ./
 ---
 
 # 爬取免费pixabay图片的小蜘蛛
@@ -13,4 +12,5 @@ typora-root-url: img
 
 
 
-![172356420975864](/172356420975864.gif)
+![172356420975864](img/172356420975864.gif)
+
